@@ -144,7 +144,7 @@ function App() {
                 />
                 <label htmlFor="symbols">Include Symbols</label>
               </div>
-              <button className="uppercase flex justify-center hover:bg-[#24232b] outline outline-offset-2  hover:text-white hover:outline-[1px] hover:outline-green-200 rounded items-center gap-5 text-center w-full py-3 bg-[#96e2ac] text-black font-bold mt-5 text-lg">
+              <button className="uppercase flex justify-center hover:bg-[#24232b] outline outline-offset-[1px]  hover:text-white outline-[1px] outline-green-200 rounded items-center gap-5 text-center w-full py-3 bg-[#96e2ac] text-black font-bold mt-5 text-lg">
                 Generate
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
